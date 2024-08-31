@@ -1,5 +1,5 @@
 
-Suggests movies based on user preferences using similarity analysis. GitHub Repo
+Suggests movies based on user preferences using similarity analysis.
 
   *  Personalized Recommendations: Provides movie suggestions based on cosine similarity of movie features.
 
